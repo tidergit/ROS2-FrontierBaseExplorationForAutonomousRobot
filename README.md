@@ -24,7 +24,7 @@ https://youtu.be/_1vtmFuhl9Y
 
 
 # Installation
-Copy the autonomous_exploration folder into your ~/ros2_ws/src folder.
+Clone the repo into your ~/ros2_ws folder (assuming that is your ros workspace folder)
 from ~/ros2_ws:
 ```
 colcon build
