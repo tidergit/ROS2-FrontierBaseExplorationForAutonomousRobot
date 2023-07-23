@@ -22,6 +22,16 @@ https://youtu.be/_1vtmFuhl9Y
 - Thread structure has been added to the exploration algorithm. 
 
 
+# Installation
+Copy the autonomous_exploration folder into your ~/ros2_ws/src folder.
+from ~/ros2_ws:
+```
+colcon build
+source ~/.bashrc
+```
+
+
+
 # How does it work?
 
 1 - To get started with autonomous exploration, first launch the Map Node 
